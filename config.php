@@ -1,3 +1,3 @@
 <?php
 
-$LIVE_URL = "https://m.cricbuzz.com/live-cricket-scores/45906/5th-match-indian-premier-league-2022";
+$LIVE_URL = "https://m.cricbuzz.com/cricket-commentary/69575/csk-vs-gt-final-indian-premier-league-2023";
